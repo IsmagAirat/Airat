@@ -1,0 +1,6 @@
+C:\Users\Исмагиловы\source\repos\TestTask\bin\Release\TestTask.exe.config
+C:\Users\Исмагиловы\source\repos\TestTask\bin\Release\TestTask.exe
+C:\Users\Исмагиловы\source\repos\TestTask\bin\Release\TestTask.pdb
+C:\Users\Исмагиловы\source\repos\TestTask\obj\Release\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\Исмагиловы\source\repos\TestTask\obj\Release\TestTask.exe
+C:\Users\Исмагиловы\source\repos\TestTask\obj\Release\TestTask.pdb
